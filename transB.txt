@@ -1,0 +1,700 @@
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn A, ten san pham: Dao 95395, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Dao 95395, so tien 18000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn A, ten san pham: Kẹp tròn 95401, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Kẹp tròn 95401, so tien 1500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Kệ đọc sách 95429, so tien 110000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Kệ đọc sách 95429, so tien 17000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Chuốt chì 95455, so tien 90000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Chuốt chì 95455, so tien 17000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Chuốt quay 95456, so tien 90000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Chuốt quay 95456, so tien 5000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Chuốt chì 95457, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Chuốt chì 95457, so tien 1000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Chuốt chì 95458, so tien 90000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Chuốt chì 95458, so tien 10000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Chuốt chì 95541, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Chuốt chì 95541, so tien 2500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Chuốt chì 95546, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Chuốt chì 95546, so tien 5000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Chuốt chì 95547, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Chuốt chì 95547, so tien 4500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn C, ten san pham: Hộp bút HS(95552), so tien 50000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Hộp bút HS(95552), so tien 0
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn C, ten san pham: Hộp bút Sắt HS in hình thú 2 ngăn-95556, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Hộp bút Sắt HS in hình thú 2 ngăn-95556, so tien 6000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn C, ten san pham: Hộp viết hít 95607, so tien 120000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Hộp viết hít 95607, so tien 17000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn C, ten san pham: Chì bấm automatic 0.5mm 95703, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Chì bấm automatic 0.5mm 95703, so tien 1500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn C, ten san pham: Viết chì bấm 95704, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Viết chì bấm 95704, so tien 15000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn C, ten san pham: Viết chì bấm 95705, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Viết chì bấm 95705, so tien 3500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn C, ten san pham: Viết chì bấm 95707, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Viết chì bấm 95707, so tien 1000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn C, ten san pham: Viết chì bấm 95709, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Viết chì bấm 95709, so tien 3500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn C, ten san pham: Chì bấm automatic 0.5 mm 95721, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Chì bấm automatic 0.5 mm 95721, so tien 14000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn C, ten san pham: Viết chì bấm 95722, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Viết chì bấm 95722, so tien 2500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn C, ten san pham: Viết chì bấm 95723, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Viết chì bấm 95723, so tien 5000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn C, ten san pham: Viết chì bấm tự động 95724, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Viết chì bấm tự động 95724, so tien 2000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn C, ten san pham: Bút chì bấm HS+lõi(95731), so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bút chì bấm HS+lõi(95731), so tien 7000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Chì bấm 95733, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Chì bấm 95733, so tien 14000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Chì bấm 95735, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Chì bấm 95735, so tien 4000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Viết bic 6 màu 95800, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Viết bic 6 màu 95800, so tien 15500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Viết 4 màu 95801, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Viết 4 màu 95801, so tien 6500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Bút dạ quang Yo 95992, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bút dạ quang Yo 95992, so tien 4000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn G, ten san pham: Bút dạ quang-95993, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bút dạ quang-95993, so tien 0
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn G, ten san pham: Bút nước màu Yo 96006 18m, so tien 60000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bút nước màu Yo 96006 18m, so tien 17500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn G, ten san pham: Bút nước 36 màu-96008, so tien 120000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bút nước 36 màu-96008, so tien 12000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn G, ten san pham: Viết chì sáp 12 màu 96051, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Viết chì sáp 12 màu 96051, so tien 1500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn G, ten san pham: Viết chì sáp 24 màu 96053, so tien 90000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Viết chì sáp 24 màu 96053, so tien 12000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn G, ten san pham: Sáp màu 96054, so tien 60000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sáp màu 96054, so tien 14000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn G, ten san pham: Sáp màu 96055, so tien 90000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sáp màu 96055, so tien 15000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn G, ten san pham: Sáp màu 96056, so tien 120000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sáp màu 96056, so tien 15000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn G, ten san pham: Đất nặn 96102, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Đất nặn 96102, so tien 5000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn G, ten san pham: Đất nặn 96106, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Đất nặn 96106, so tien 3500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn G, ten san pham: Đất nặn 96107, so tien 60000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Đất nặn 96107, so tien 12500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn G, ten san pham: Đất nặn 96111, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Đất nặn 96111, so tien 8000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn G, ten san pham: Đất nặn 96114, so tien 90000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Đất nặn 96114, so tien 18000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn G, ten san pham: Đất nặn 96115, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Đất nặn 96115, so tien 2000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn G, ten san pham: Đất nặn 96116, so tien 60000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Đất nặn 96116, so tien 13000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn G, ten san pham: Bìa phân trang học sinh -96173, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bìa phân trang học sinh -96173, so tien 4000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn G, ten san pham: File 1 lá kép Yocoo 96174, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: File 1 lá kép Yocoo 96174, so tien 11500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn G, ten san pham: Bình nước 96213, so tien 340000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bình nước 96213, so tien 11000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn G, ten san pham: Bình nước 96214, so tien 210000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bình nước 96214, so tien 11000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn G, ten san pham: Bình nước 96218, so tien 370000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bình nước 96218, so tien 12000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn G, ten san pham: Hộp tiết kiệm Yo 96245, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Hộp tiết kiệm Yo 96245, so tien 16000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn G, ten san pham: Bìa 10 lá YOCOO 96250, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bìa 10 lá YOCOO 96250, so tien 9500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn G, ten san pham: Bìa 30 lá Học sinh-96252, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bìa 30 lá Học sinh-96252, so tien 17000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn G, ten san pham: Bộ compa+eke Yo 96322, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bộ compa+eke Yo 96322, so tien 10000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn G, ten san pham: Viết xóa giấy 96351, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Viết xóa giấy 96351, so tien 19500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn G, ten san pham: Xóa giấy 96353, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Xóa giấy 96353, so tien 15500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Xóa giấy 96356, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Xóa giấy 96356, so tien 4000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Xóa giấy 96357, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Xóa giấy 96357, so tien 2000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Viết xóa giấy 96358, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Viết xóa giấy 96358, so tien 3000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Xóa giấy 96359, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Xóa giấy 96359, so tien 2500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Viết xóa giấy 96360, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Viết xóa giấy 96360, so tien 3000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Viết xóa giấy 96361, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Viết xóa giấy 96361, so tien 3000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Viết xóa giấy 96362, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Viết xóa giấy 96362, so tien 1500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Viết xóa kim 96371, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Viết xóa kim 96371, so tien 6000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Khay cắm bút deli 96432, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Khay cắm bút deli 96432, so tien 5000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Bảng học sinh Yo 96450, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bảng học sinh Yo 96450, so tien 15000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Giấy note 96518, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Giấy note 96518, so tien 2000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Giấy note 96521, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Giấy note 96521, so tien 15500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Giấy note 96522, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Giấy note 96522, so tien 7500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Giấy note 96523, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Giấy note 96523, so tien 500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Giấy note 96526, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Giấy note 96526, so tien 8500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Giấy note 96527, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Giấy note 96527, so tien 4000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Bộ dụng cụ học sinh 98101, so tien 110000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bộ dụng cụ học sinh 98101, so tien 11000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Bộ dụng cụ học sinh 98102, so tien 110000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bộ dụng cụ học sinh 98102, so tien 15000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Viết bi nước TOUS T-290, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Viết bi nước TOUS T-290, so tien 9500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Hộp bút giấy BH-12182, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Hộp bút giấy BH-12182, so tien 8500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: , so tien 10000000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: , so tien 0
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: OPPO R8001 White (R1K), so tien 4300000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: OPPO R8001 White (R1K), so tien 0
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Chì sáp HANPAI 12M 5188-12, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Chì sáp HANPAI 12M 5188-12, so tien 1500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Chì sáp HANPAI 18M 5188-18, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Chì sáp HANPAI 18M 5188-18, so tien 13000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Chì sáp HANPAI 24M 5188, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Chì sáp HANPAI 24M 5188, so tien 3500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Chì sáp 18M DUDO D-518-18, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Chì sáp 18M DUDO D-518-18, so tien 10500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Chì sáp 248M DUDO D-518-24, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Chì sáp 248M DUDO D-518-24, so tien 1000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Sáp màu 9018-12, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sáp màu 9018-12, so tien 17000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: BO 5 THO TT BONG BAU, so tien 60000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: BO 5 THO TT BONG BAU, so tien 11000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Bìa 100 lá A4, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bìa 100 lá A4, so tien 18000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Bìa 40 lá A4, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bìa 40 lá A4, so tien 15000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Bìa 60 lá A4, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bìa 60 lá A4, so tien 5500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Sổ mật mã 32k-M23, so tien 90000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ mật mã 32k-M23, so tien 15000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Sổ khóa hộp 32K-YP105282, so tien 170000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ khóa hộp 32K-YP105282, so tien 12000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Sổ bìa cứng dày 001-B, so tien 90000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ bìa cứng dày 001-B, so tien 7000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Sổ bìa cứng 027-N, so tien 90000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ bìa cứng 027-N, so tien 15000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn K, ten san pham: Khay hình chử nhật PN2058E, so tien 60000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Khay hình chử nhật PN2058E, so tien 18000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn K, ten san pham: Khay làm đá nhựa in hình PN171, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Khay làm đá nhựa in hình PN171, so tien 15000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn K, ten san pham: Khay đá có nắp PNX3-P3/3c, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Khay đá có nắp PNX3-P3/3c, so tien 0
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn K, ten san pham: Xô đựng nước 7 lít, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Xô đựng nước 7 lít, so tien 5000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn K, ten san pham: Sổ da 25A993, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ da 25A993, so tien 1000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn K, ten san pham: Sổ lò xo XQ16K-215, so tien 60000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ lò xo XQ16K-215, so tien 15000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn K, ten san pham: Sổ lò xo XQ22K-215, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ lò xo XQ22K-215, so tien 11000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn K, ten san pham: Sổ bìa da 18K1, so tien 90000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ bìa da 18K1, so tien 9000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn K, ten san pham:  BỂ BƠI THỂ THAO G SPORT, so tien 340000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham:  BỂ BƠI THỂ THAO G SPORT, so tien 1000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn K, ten san pham: Sổ bìa da 25K1, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ bìa da 25K1, so tien 11000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn K, ten san pham: Sổ bìa da 36K1, so tien 60000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ bìa da 36K1, so tien 11000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn K, ten san pham: Sổ bìa da 48K1, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ bìa da 48K1, so tien 1500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn K, ten san pham: Sổ 25A088, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ 25A088, so tien 11000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn K, ten san pham: Sổ da 4829, so tien 60000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ da 4829, so tien 15000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn K, ten san pham: Sổ da CS-25A999, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ da CS-25A999, so tien 6000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn K, ten san pham: Sổ CS-36A999, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ CS-36A999, so tien 17000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn K, ten san pham: Sổ da CS-48A999, so tien 60000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ da CS-48A999, so tien 19500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn K, ten san pham: Sổ lò xo CSC-22100, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ lò xo CSC-22100, so tien 14500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn K, ten san pham: Sổ lò xo CSC64100, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ lò xo CSC64100, so tien 3500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn K, ten san pham: Sổ lò xo CSC-18100, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ lò xo CSC-18100, so tien 1500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn K, ten san pham: Sổ lò xo 18538, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ lò xo 18538, so tien 16000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn K, ten san pham: Sổ lò xo 22538, so tien 60000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ lò xo 22538, so tien 18500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn K, ten san pham: Sổ lò xo 64538, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ lò xo 64538, so tien 18000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn K, ten san pham: Sổ lò xo 225004, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ lò xo 225004, so tien 10000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn K, ten san pham: Sổ lò xo 185004, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ lò xo 185004, so tien 500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn K, ten san pham: Sổ da trung CS36678, so tien 60000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ da trung CS36678, so tien 19500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn K, ten san pham: Sổ da 25678, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ da 25678, so tien 17000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn K, ten san pham: Sổ bìa trong trung 22817, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ bìa trong trung 22817, so tien 8500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn K, ten san pham: Sổ lò xo 64513, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ lò xo 64513, so tien 16000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn K, ten san pham: Sổ lò xo 22922, so tien 50000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ lò xo 22922, so tien 0
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn K, ten san pham: Sổ da nút 25A-680, so tien 120000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ da nút 25A-680, so tien 12000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn K, ten san pham: Sổ da nút 36A-680, so tien 90000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ da nút 36A-680, so tien 0
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn K, ten san pham: Sổ da 25A-661, so tien 90000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ da 25A-661, so tien 18000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn K, ten san pham: Sổ da 18A-661, so tien 110000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ da 18A-661, so tien 11000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn K, ten san pham: Sổ da nút 25A682, so tien 140000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ da nút 25A682, so tien 16000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn K, ten san pham: Sổ da nút 36A-682, so tien 120000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ da nút 36A-682, so tien 12000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Sổ CS-25K-3, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ CS-25K-3, so tien 13000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Sổ CS-36K-3, so tien 60000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ CS-36K-3, so tien 16500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Sổ bìa da 48A900, so tien 60000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ bìa da 48A900, so tien 11000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Sổ bìa da 36A900, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ bìa da 36A900, so tien 3000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Sổ lò xo CSX-18058, so tien 60000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ lò xo CSX-18058, so tien 17000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Sổ lò xo 22389, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ lò xo 22389, so tien 11000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Sổ trung CS-22E60, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ trung CS-22E60, so tien 12500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Sổ da 18A993, so tien 110000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ da 18A993, so tien 12000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Sổ da 36A993, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ da 36A993, so tien 14000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Sổ bìa da 18A900, so tien 120000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ bìa da 18A900, so tien 12000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Sổ bìa da lớn 16088, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ bìa da lớn 16088, so tien 12000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Sổ da phân trang 50088, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ da phân trang 50088, so tien 13000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Sổ lò xo 18535, so tien 90000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ lò xo 18535, so tien 5000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Sổ bìa nhựa phân trang 22535, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ bìa nhựa phân trang 22535, so tien 500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn H, ten san pham: Sổ bìa nhựa phân trang 48535, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ bìa nhựa phân trang 48535, so tien 14500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn L, ten san pham: Cốc có quai - có nắp 300ml - Màu xanh da trời, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Cốc có quai - có nắp 300ml - Màu xanh da trời, so tien 18000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn L, ten san pham: KÉO CẮT ELEPHANT 5 INCH 1/2, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: KÉO CẮT ELEPHANT 5 INCH 1/2, so tien 15100
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn L, ten san pham: Bìa còng nhẫn PP Elephant 3cm 221A4 (đồng), so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bìa còng nhẫn PP Elephant 3cm 221A4 (đồng), so tien 8500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn L, ten san pham: Bìa còng Elfen 7.5 cm 1202F Xám, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bìa còng Elfen 7.5 cm 1202F Xám, so tien 1500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn L, ten san pham: Hộp 12 màu nước Tempera Masterart, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Hộp 12 màu nước Tempera Masterart, so tien 10100
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn L, ten san pham: BÌA CÒNG 70MM A4-FO-LAF06 2M XI X.ĐẬM, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: BÌA CÒNG 70MM A4-FO-LAF06 2M XI X.ĐẬM, so tien 5300
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn L, ten san pham: Bộ cạo râu  Gillette Fusion Power Razor, so tien 520000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bộ cạo râu  Gillette Fusion Power Razor, so tien 10500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn L, ten san pham: Dầu gội Clearmen 340ml 24/1, so tien 90000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Dầu gội Clearmen 340ml 24/1, so tien 5000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn L, ten san pham: Bóp viết KD8917, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bóp viết KD8917, so tien 1000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn L, ten san pham: Bóp viết vải KD8949, so tien 60000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bóp viết vải KD8949, so tien 14000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn L, ten san pham: Hộp bút hít K-172, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Hộp bút hít K-172, so tien 9000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn L, ten san pham: Hộp bút hít K-173, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Hộp bút hít K-173, so tien 12000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn L, ten san pham: Viết chì bấm MP-1587-0.7, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Viết chì bấm MP-1587-0.7, so tien 1000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn L, ten san pham: Tranh Truyện Dân Gian Việt Nam - Chàng Học Trò Có Chí, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Tranh Truyện Dân Gian Việt Nam - Chàng Học Trò Có Chí, so tien 5000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn L, ten san pham: Dầu gội clear 340ml, so tien 90000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Dầu gội clear 340ml, so tien 5000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn L, ten san pham: Ủ tóc sunsilk 200ml, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Ủ tóc sunsilk 200ml, so tien 0
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn L, ten san pham: Dầu xả sunsilk 320ml, so tien 90000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Dầu xả sunsilk 320ml, so tien 13000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn L, ten san pham: CHì bấm Crystal, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: CHì bấm Crystal, so tien 2000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn L, ten san pham: Bút sáp OP-2188S-18 (dùng mã 6945091735780) , so tien 60000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bút sáp OP-2188S-18 (dùng mã 6945091735780) , so tien 19500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn L, ten san pham: Bút sáp OP-2188S-24, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bút sáp OP-2188S-24, so tien 17000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn L, ten san pham: Viết nước BP-2370, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Viết nước BP-2370, so tien 9000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn L, ten san pham: Bút lông 12M CWP-2600-12, so tien 60000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bút lông 12M CWP-2600-12, so tien 10500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn L, ten san pham: Bút Lông TrueColor 18M , so tien 90000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bút Lông TrueColor 18M , so tien 17000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn L, ten san pham: Bút lông 24M CWP-2600-24, so tien 110000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bút lông 24M CWP-2600-24, so tien 15000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn L, ten san pham: Thước bộ GB-520002, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Thước bộ GB-520002, so tien 17500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn L, ten san pham: Viết chì bấm 131020, so tien 60000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Viết chì bấm 131020, so tien 12000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn L, ten san pham: Bút sáp kim tuyến 200206, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bút sáp kim tuyến 200206, so tien 2000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn L, ten san pham: Bút lông bảng 30008, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bút lông bảng 30008, so tien 8500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn L, ten san pham: Ruột chì 170006C 0.5, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Ruột chì 170006C 0.5, so tien 9000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn L, ten san pham: Bút sáp OP-2188S-24, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bút sáp OP-2188S-24, so tien 17000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn L, ten san pham: Bút dạ quang TrueColor Mikky, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bút dạ quang TrueColor Mikky, so tien 9000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn L, ten san pham: Tai nghe vi tính Microlab K270 , so tien 220000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Tai nghe vi tính Microlab K270 , so tien 5000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn L, ten san pham: Sổ da nút DS-1810, so tien 110000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ da nút DS-1810, so tien 15000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn T, ten san pham: Sổ da 2512 -TL, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ da 2512 -TL, so tien 11000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn T, ten san pham: Sổ da DS-2568, so tien 110000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ da DS-2568, so tien 16000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn T, ten san pham: Sổ da 3601, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ da 3601, so tien 1000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn T, ten san pham: Sổ da DS-3608 -TL, so tien 60000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ da DS-3608 -TL, so tien 12000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn T, ten san pham: Sổ da nút DS-3610, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ da nút DS-3610, so tien 16000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn T, ten san pham: Sổ  DS-4801, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ  DS-4801, so tien 9000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn T, ten san pham: Sổ da nút DS-4810, so tien 60000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ da nút DS-4810, so tien 18500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn T, ten san pham: Sổ da DS-4868, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ da DS-4868, so tien 10000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn T, ten san pham: Sổ da 6012, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ da 6012, so tien 9500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn T, ten san pham: Thước nhôm 30cm, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Thước nhôm 30cm, so tien 5000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn T, ten san pham: Dầu gội Clearmen vòi 480ml, so tien 120000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Dầu gội Clearmen vòi 480ml, so tien 10000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn T, ten san pham: Sáp vặn 16M vĩ nhựa lớn HQ, so tien 90000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sáp vặn 16M vĩ nhựa lớn HQ, so tien 7000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn T, ten san pham: Ủ tóc Dove 200g, so tien 90000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Ủ tóc Dove 200g, so tien 0
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn T, ten san pham: KẸP GẤP ĐÍNH HẠT ST 49, so tien 60000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: KẸP GẤP ĐÍNH HẠT ST 49, so tien 11500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn T, ten san pham: Sáp vặn 20M vĩ nhựa lớn HQ, so tien 100000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sáp vặn 20M vĩ nhựa lớn HQ, so tien 0
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn T, ten san pham: Sáp dầu 18 màu HQ hộp giấy, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sáp dầu 18 màu HQ hộp giấy, so tien 12500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn T, ten san pham: Sáp dầu 24 màu HQ hộp giấy, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sáp dầu 24 màu HQ hộp giấy, so tien 5500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn T, ten san pham: Hộp bút hít KW-2013-4, so tien 120000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Hộp bút hít KW-2013-4, so tien 14000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Hộp viết 2179, so tien 120000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Hộp viết 2179, so tien 14000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Hộp bút nhựa KW-2252, so tien 90000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Hộp bút nhựa KW-2252, so tien 19000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Hộp bút nhựa xe KW-2259, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Hộp bút nhựa xe KW-2259, so tien 4000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Viết kim tuyến 12M JY-1208F, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Viết kim tuyến 12M JY-1208F, so tien 11000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Viết kim tuyến 8M HT-8808F, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Viết kim tuyến 8M HT-8808F, so tien 500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Bộ dụng cụ tròn 8055, so tien 50000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bộ dụng cụ tròn 8055, so tien 0
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Hộp viết thiết 8500DM, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Hộp viết thiết 8500DM, so tien 6000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Xóa kéo JQ-8006i, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Xóa kéo JQ-8006i, so tien 17500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Hộp bút hít 8014TT, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Hộp bút hít 8014TT, so tien 18000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Hộp bút thiếc 8049, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Hộp bút thiếc 8049, so tien 15000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Hộp viết thiết 8062H, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Hộp viết thiết 8062H, so tien 19000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Hộp viết thiếc 8063BL, so tien 60000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Hộp viết thiếc 8063BL, so tien 15500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Bộ thun SN/TN bé gái 6-24M, so tien 110000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bộ thun SN/TN bé gái 6-24M, so tien 10100
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Sáp dầu 36M TSS-NonToxic, so tien 110000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sáp dầu 36M TSS-NonToxic, so tien 17000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Small Cleaning Shoes Leather And Leather Her Ping Good Soft Bristles, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Small Cleaning Shoes Leather And Leather Her Ping Good Soft Bristles, so tien 4000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Sổ note book 176, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ note book 176, so tien 2500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Viết kim tuyến 24M 605, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Viết kim tuyến 24M 605, so tien 5000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Dao inox 8 chef smart 100227, so tien 90000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Dao inox 8 chef smart 100227, so tien 11000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: 36_10 Gia vượng phong thủy và cuộc sống thịnh vượng, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: 36_10 Gia vượng phong thủy và cuộc sống thịnh vượng, so tien 4000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: CAMEN INOX ZEBRA 3NGẮN SIZE 14CM, so tien 340000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: CAMEN INOX ZEBRA 3NGẮN SIZE 14CM, so tien 6000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: BAOL 1003 450ML Bình giữ nhiệt, so tien 170000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: BAOL 1003 450ML Bình giữ nhiệt, so tien 3800
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Bình giữ nhiệt, so tien 190000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bình giữ nhiệt, so tien 6400
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Bộ muỗng dài vỉ 6 chiếc Zebra No. 100001, so tien 60000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bộ muỗng dài vỉ 6 chiếc Zebra No. 100001, so tien 19800
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Cặp lồng inox Zebra, so tien 260000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Cặp lồng inox Zebra, so tien 14500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Viết kim tuyến 6M-210, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Viết kim tuyến 6M-210, so tien 5500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Kéo răng cưa 6 kiểu AB-0001, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Kéo răng cưa 6 kiểu AB-0001, so tien 17500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: NỒI HẦM XƯƠNG INOX ZEBRA 28*20CM-12L , so tien 720000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: NỒI HẦM XƯƠNG INOX ZEBRA 28*20CM-12L , so tien 11000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Chảo 24 nắp kính- Estio pro, so tien 590000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Chảo 24 nắp kính- Estio pro, so tien 5000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: JPMB3402 Quần lót nam JOCKEY đen M, so tien 140000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: JPMB3402 Quần lót nam JOCKEY đen M, so tien 15000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: KT-MC28 Lẩu điện SUNARI, so tien 390000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: KT-MC28 Lẩu điện SUNARI, so tien 11000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Sổ bìa cứng note 85, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ bìa cứng note 85, so tien 1000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Sổ bìa cứng Note -112, so tien 60000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ bìa cứng Note -112, so tien 14000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Sổ lò xo nhỏ Note-128, so tien 60000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ lò xo nhỏ Note-128, so tien 12000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Phụ kiện làm thiệp SCK007(6c), so tien 60000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Phụ kiện làm thiệp SCK007(6c), so tien 17500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Sổ lò xo T-1438-2009, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ lò xo T-1438-2009, so tien 7500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Ví giấy+ sổ 1005, so tien 60000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Ví giấy+ sổ 1005, so tien 12500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Đất sét 3112, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Đất sét 3112, so tien 8000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: TÚI ĐỰNG QUÀ, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: TÚI ĐỰNG QUÀ, so tien 13000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Compa 723, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Compa 723, so tien 7500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Compa 323, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Compa 323, so tien 11500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Compass bộ 5007-7, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Compass bộ 5007-7, so tien 13500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Compa 5013-1, so tien 60000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Compa 5013-1, so tien 19000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Hộp viết nhựa 3668-8, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Hộp viết nhựa 3668-8, so tien 19500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Hộp bút nhựa 4668-8, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Hộp bút nhựa 4668-8, so tien 7000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Hộp bút nhựa 5668-1, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Hộp bút nhựa 5668-1, so tien 12500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Compa bộ 5012-1, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Compa bộ 5012-1, so tien 13000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Compa 706, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Compa 706, so tien 9000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Compa bộ 707-8, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Compa bộ 707-8, so tien 9500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Compass 704-5, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Compass 704-5, so tien 1000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Compa 708-2, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Compa 708-2, so tien 1000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Compa ZHIBO 823, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Compa ZHIBO 823, so tien 0
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Compass bộ 388, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Compass bộ 388, so tien 18000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Hộp bút nhựa 3669, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Hộp bút nhựa 3669, so tien 5000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: NƯỚC CỐT GÀ NHÂN SÂM 70 ML HỘP LỚN, so tien 290000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: NƯỚC CỐT GÀ NHÂN SÂM 70 ML HỘP LỚN, so tien 12700
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Gôm số MQ-718, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Gôm số MQ-718, so tien 15500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: , so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: , so tien 19700
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Bấm kim STAPLER CL-207, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bấm kim STAPLER CL-207, so tien 8500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Bấm kim STAPLER CL-9925, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bấm kim STAPLER CL-9925, so tien 15500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Bấm kim CL-9928, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bấm kim CL-9928, so tien 10500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn X, ten san pham: Sổ lò xo phân trang 25-080, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ lò xo phân trang 25-080, so tien 5500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn A, ten san pham: Sổ lò xo trung 25-081, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ lò xo trung 25-081, so tien 9500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn A, ten san pham: Sổ trong nhỏ 64k-2523, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ trong nhỏ 64k-2523, so tien 2500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn A, ten san pham: Sổ note đen BK16-1686Y, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ note đen BK16-1686Y, so tien 1000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn A, ten san pham: Sổ trong nhỏ 64k-2514, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ trong nhỏ 64k-2514, so tien 4000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn A, ten san pham: Sổ bìa trong lớn BK16-1064, so tien 60000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ bìa trong lớn BK16-1064, so tien 17000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn A, ten san pham: Sổ note trung 22-1200, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ note trung 22-1200, so tien 14500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn A, ten san pham: Sổ note lớn 16-1198, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ note lớn 16-1198, so tien 2000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn A, ten san pham: Sổ lò xo phân trang 22-1207, so tien 60000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ lò xo phân trang 22-1207, so tien 17000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn A, ten san pham: Sổ lò xo phân trang nhỏ 64-1207, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ lò xo phân trang nhỏ 64-1207, so tien 17000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn A, ten san pham: Sổ trong lớn BK16-1301, so tien 60000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ trong lớn BK16-1301, so tien 17000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn A, ten san pham: Sổ trong trung BK22-1301, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ trong trung BK22-1301, so tien 11000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn A, ten san pham: Sổ lò xo A4 XQ18-1316, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ lò xo A4 XQ18-1316, so tien 4000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn A, ten san pham: Sổ lò xo A6 XQ36-1316, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ lò xo A6 XQ36-1316, so tien 5500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn A, ten san pham: Sổ bìa nhựa BK22-1320, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ bìa nhựa BK22-1320, so tien 3000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn A, ten san pham: Sổ lò xo A5 XQ22-1322, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ lò xo A5 XQ22-1322, so tien 18500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Sổ lò xo A4 XQ18-1322, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ lò xo A4 XQ18-1322, so tien 1000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Sổ lò xo nhỏ XQ36-1322, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ lò xo nhỏ XQ36-1322, so tien 4000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Sổ lò xo trung XQ22-1323, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ lò xo trung XQ22-1323, so tien 14000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Sổ trong trung 22-1325, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ trong trung 22-1325, so tien 8500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Sổ lò xo A4 nút XQ18-1340, so tien 60000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ lò xo A4 nút XQ18-1340, so tien 19500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Sổ bìa nhựa trong 22-1512, so tien 60000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ bìa nhựa trong 22-1512, so tien 11000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Sổ bìa nhựa trong lớn 16-1531, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ bìa nhựa trong lớn 16-1531, so tien 8000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Sổ bìa nhựa trong lớn 16-1533, so tien 90000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ bìa nhựa trong lớn 16-1533, so tien 15000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Sổ bìa nhựa trong 22-1533, so tien 50000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ bìa nhựa trong 22-1533, so tien 0
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Sổ bìa da lớn 16-1559, so tien 110000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ bìa da lớn 16-1559, so tien 12000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Đất sét ME-330, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Đất sét ME-330, so tien 5000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Đất sét ME-352, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Đất sét ME-352, so tien 15500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Đất sét ME-395, so tien 170000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Đất sét ME-395, so tien 1000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Đất sét ME-398, so tien 110000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Đất sét ME-398, so tien 11000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Sổ bìa da màu nhỏ 48K41042, so tien 60000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ bìa da màu nhỏ 48K41042, so tien 17000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Sổ bìa mềm 48K21222, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ bìa mềm 48K21222, so tien 18000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Sổ bìa cứng 36k11239, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ bìa cứng 36k11239, so tien 10000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Sổ bìa cứng 10374 MH, so tien 90000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ bìa cứng 10374 MH, so tien 3000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Sổ bìa cứng nhỏ dài 48K 11386, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ bìa cứng nhỏ dài 48K 11386, so tien 1000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Sổ bìa cứng Smlie MH, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ bìa cứng Smlie MH, so tien 15000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Sổ bìa cứng 10415 MH, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ bìa cứng 10415 MH, so tien 13000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Sổ bìa cứng 11417 MH, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ bìa cứng 11417 MH, so tien 0
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Sổ bìa da nút nhỏ 64k40787, so tien 110000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ bìa da nút nhỏ 64k40787, so tien 11000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Sổ bìa da nút nhỏ 64k40789, so tien 110000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ bìa da nút nhỏ 64k40789, so tien 11000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Giấy note hình 165K20816, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Giấy note hình 165K20816, so tien 6000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: COMPA 935 - SUNNY, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: COMPA 935 - SUNNY, so tien 19500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Compa bộ HB-3009A, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Compa bộ HB-3009A, so tien 11500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Xóa giấy M&G ACT51103 (đôi), so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Xóa giấy M&G ACT51103 (đôi), so tien 500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Bút nước K-35 xanh, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bút nước K-35 xanh, so tien 8000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Bút xóa MF 6001, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bút xóa MF 6001, so tien 6000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Bút nước K-35 đỏ, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bút nước K-35 đỏ, so tien 8000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Bút bi bấm GP1163, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bút bi bấm GP1163, so tien 9000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Bút nước M&G K-35-đen, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bút nước M&G K-35-đen, so tien 8000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Bút xóa nước M&G T-504, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bút xóa nước M&G T-504, so tien 6500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Bút xóa M&G T 6079, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bút xóa M&G T 6079, so tien 9000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Bút nước AGP 13604A, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bút nước AGP 13604A, so tien 9000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Chì kim AMP 12403 0.5, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Chì kim AMP 12403 0.5, so tien 7500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Bút bi FBP 87106, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bút bi FBP 87106, so tien 7000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Sổ bìa da 2593, so tien 60000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ bìa da 2593, so tien 19000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Bút nước M&B AGP-1503-xanh, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bút nước M&B AGP-1503-xanh, so tien 9000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn B, ten san pham: Bút bi nước Large Capacity, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bút bi nước Large Capacity, so tien 9000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Bút nước M&B AGB-11503-đen, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bút nước M&B AGB-11503-đen, so tien 5000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Bút bi 4m FBP 80602, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bút bi 4m FBP 80602, so tien 2500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Kéo hình 14cm ASS 91329(con chó), so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Kéo hình 14cm ASS 91329(con chó), so tien 10000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Kéo hình ASS 91330, so tien 60000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Kéo hình ASS 91330, so tien 16500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Hồ khô đổi màu ASG 97118 - 21g, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Hồ khô đổi màu ASG 97118 - 21g, so tien 3500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Kéo hình ASS 91342 - con bướm , so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Kéo hình ASS 91342 - con bướm , so tien 10000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Kéo hình ASS 91343 - con ong , so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Kéo hình ASS 91343 - con ong , so tien 10000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Kéo hình ASS 91344 - con chuồn , so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Kéo hình ASS 91344 - con chuồn , so tien 10000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Bút bi ABP 82401, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bút bi ABP 82401, so tien 8500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Bút bi ABP 82401, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bút bi ABP 82401, so tien 8500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Bút bi M&G ABP-14508 - đầu lâu, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bút bi M&G ABP-14508 - đầu lâu, so tien 9000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Hộp bút hít 6003, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Hộp bút hít 6003, so tien 1000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Hộp bút hít SP-06005, so tien 60000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Hộp bút hít SP-06005, so tien 12500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Hộp bút thiết BDC SP-06007, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Hộp bút thiết BDC SP-06007, so tien 6000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Hộp bút thiếc SP-06009, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Hộp bút thiếc SP-06009, so tien 15000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Bút chì bấm iFen MP-1106, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bút chì bấm iFen MP-1106, so tien 9500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: AMMCS1527LU Áo ngực đen SIZE B75, so tien 310000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: AMMCS1527LU Áo ngực đen SIZE B75, so tien 15000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Chì bấm sắt 168 0.5, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Chì bấm sắt 168 0.5, so tien 8000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Chì bấm MN-1001, so tien 20000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Chì bấm MN-1001, so tien 9000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Bóp viết vải 5528, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bóp viết vải 5528, so tien 15000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Bóp viết vải 9981, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bóp viết vải 9981, so tien 10000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Bình nước 881, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bình nước 881, so tien 7000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Bình nước 1056, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bình nước 1056, so tien 1000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Bình nước 8402, so tien 90000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bình nước 8402, so tien 19000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Bình nước 8405, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bình nước 8405, so tien 3000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Bình nước 8413C, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bình nước 8413C, so tien 11000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Bình nước 8406, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bình nước 8406, so tien 18000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Bình nước 8412, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bình nước 8412, so tien 3000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Bình nước 8417, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bình nước 8417, so tien 16000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Bình nước 8417 nhỏ, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bình nước 8417 nhỏ, so tien 18000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Bình nước 8421, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bình nước 8421, so tien 14000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Bình nước 8423, so tien 90000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bình nước 8423, so tien 19000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Bình nước 8421D, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bình nước 8421D, so tien 1000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Bộ xếp hình 88103-20, so tien 160000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Bộ xếp hình 88103-20, so tien 13000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Sổ bìa da 36K28, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ bìa da 36K28, so tien 16000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Sổ bìa da 48K28, so tien 60000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ bìa da 48K28, so tien 19000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Sổ bìa da 2586, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ bìa da 2586, so tien 13000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Sổ bìa da 6088, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ bìa da 6088, so tien 11500
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Sổ bìa da 3693, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ bìa da 3693, so tien 7000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Sổ da 36K26, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ da 36K26, so tien 17000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Sổ bìa da 48K26, so tien 40000
+Giao dich nhan tien thua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, ten san pham: Sổ bìa da 48K26, so tien 10000
+Giao dich mua | Ngay mua: Wed Nov 13 10:59:07 ICT 2019, nhan vien: Nguyễn Văn D, ten san pham: Sổ da  25K41, so tien 70000
+Giao dich nhan tien thua | Ngay mua: Wed No
